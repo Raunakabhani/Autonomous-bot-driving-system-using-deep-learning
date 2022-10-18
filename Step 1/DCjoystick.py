@@ -1,10 +1,7 @@
 """
--This module get the joystick values
-and puts them in a single dictionary in realtime.
--The values can be accessed through the keys
--Tested on PS4 Bluetooth and wired controller
+This module is to get value of joystick which is used to
+initialize recording and get steering angle for data collection
 """
-
 import pygame
 from time import sleep
 
