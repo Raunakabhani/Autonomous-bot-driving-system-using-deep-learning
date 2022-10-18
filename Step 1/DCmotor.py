@@ -1,6 +1,7 @@
 '''
 -This module allows creation of robot objects for 2 or 4 wheeled robots.
 -The motor driver used is the L298n.
+-We used a 4 wheeled robot where right pair is connected in motor driver in parallel and same for left side 
 -The base package used is the Rpi GPIO
 -The Object Motor needs to be created first
 -Then the move() function can be called to operate the motors
