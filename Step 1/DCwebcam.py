@@ -2,7 +2,7 @@
 -This module gets an image through the webcam
 using the opencv package
 -Display can be turned on or off
--Image size can be defined
+-Image size can be defined  depending on architecture you are using to train the model
 """
 
 import cv2
