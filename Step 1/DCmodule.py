@@ -1,12 +1,9 @@
 """
 - This module saves images and a log file.
 - Images are saved in a folder.
-- Folder should be created manually with the name "DataCollected"
+- Folder is to be created manually with the name "DataCollected"
 - The name of the image and the steering angle is logged
-in the log file.
-- Call the saveData function to start.
-- Call the saveLog function to end.
-- If runs independent, will save ten images as a demo.
+  in the log file.
 """
 
 import pandas as pd
